@@ -1,6 +1,6 @@
 # ComfyUI RM Nodes
 
-This repository contains **modified nodes** designed for the [ComfyUI](https://github.com/comfyanonymous/ComfyUI) framework, focusing on fixing errors and workflow incompatibilities I encountered in my own setups.  
+This repository contains **modified nodes** designed for the [ComfyUI](https://github.com/comfyanonymous/ComfyUI) framework, focusing on fixing errors and workflow incompatibilities I encountered in my own workflows.  
 
 > ⚠ **Note:** If you do not have issues with the original nodes, please use the extensions created by the **original authors** instead.  
 These modifications are personal adaptations and may differ from the intended behavior of the original versions.
